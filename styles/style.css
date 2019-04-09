@@ -1,0 +1,26 @@
+/* Start Body */
+body {
+    color:red;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+ }
+/* End Body */
+
+/* Start Debug*/
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    background-color: red;
+}
+/* End Debug*/
+
+/* Start Contener */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+}
